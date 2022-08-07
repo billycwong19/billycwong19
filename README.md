@@ -22,4 +22,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<-- Badges from https://github.com/Ileriayo/markdown-badges  -->
+[//]: <Badges from https://github.com/Ileriayo/markdown-badges>
