@@ -1,3 +1,7 @@
+# :wave: Hello
+
+<p align='center'> Welcome to my Github. I am a fairly green developer, with about a year of studying and coding under my belt. You will find a lot of my latest work here, from passion projects to practice, and collaborations. My latest project will is the <strong>'rtz-app'</strong>, so please check that out.</p>
+
 ### Currently:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -10,8 +14,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
-#
 
 ### Learning:
 
