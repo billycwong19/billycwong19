@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-<p>My name is William, you can call me Billy, and I specialize in Single-Page MERN stack applications where I utilize various CSS libraries, or, at times, build from scratch. I am constantly learning and consider myself an obsessive-problem-solver, so I won't stop until it works. </p>
+<p>My name is William, but you can call me Billy, and I specialize in Single-Page MERN stack applications where I utilize various CSS libraries, or, at times, build from scratch. I am constantly learning and consider myself an obsessive-problem-solver, so I won't stop until it works. </p>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
